@@ -155,5 +155,6 @@ pyrightconfig.json
 
 ### Custom Additions for Minecraft Launcher ###
 tests.py
+imgui.ini
 level.dat
 logs/
